@@ -1,0 +1,13 @@
+language: ruby
+
+#cache:
+#  bundler: true
+#  directories:
+#    - .onceover
+
+#script: bundler exec onceover run spec --debug
+#bundler_args: --without development --path vendor/bundle
+
+#rvm:
+#  - 2.3.0
+#  - 2.3.3
